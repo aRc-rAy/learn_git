@@ -70,6 +70,22 @@
 
 ### Branch
 
+```git
+      git branch
 ```
 
+```git
+      git branch new_feature
+```
+
+```git
+      git checkout new_feature
+```
+
+```git
+      git  checkout -b add_feature
+```
+
+```git
+      git branch -M del_feature
 ```
