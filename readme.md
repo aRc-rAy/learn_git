@@ -126,6 +126,12 @@
       git merge other_branch
 ```
 
+### stash
+
+```git
+      git stash save "stash begins here"
+```
+
 ```git
       git stash list
 ```
