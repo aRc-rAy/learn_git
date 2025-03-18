@@ -73,3 +73,9 @@
 ```
 
 ```
+
+### merge
+
+```git
+      git merge other_branch
+```
