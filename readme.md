@@ -110,8 +110,6 @@
 
 ### reset
 
-#### soft
-
 ```git
       git reset --soft <tree-ish>
 ```
@@ -159,3 +157,5 @@
 ```git
       git stash drop stash@{0}
 ```
+
+## remote repo
