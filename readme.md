@@ -155,3 +155,7 @@
 ```git
       git stash apply
 ```
+
+```git
+      git stash drop stash@{0}
+```
