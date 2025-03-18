@@ -125,3 +125,27 @@
 ```git
       git merge other_branch
 ```
+
+```git
+      git stash list
+```
+
+```git
+      git stash show stash@{0}
+```
+
+```git
+      git stash show -p stash@{0}
+```
+
+```git
+      git stash pop
+```
+
+```git
+      git stash pop stash{0}
+```
+
+```git
+      git stash apply
+```
