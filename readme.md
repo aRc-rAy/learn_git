@@ -89,3 +89,15 @@
 ```git
       git branch -M del_feature
 ```
+
+#### compare branches
+
+```git
+      git diff master..new_feature
+```
+
+#### rename
+
+```git
+      git branch -m seo_title
+```
