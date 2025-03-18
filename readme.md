@@ -101,3 +101,23 @@
 ```git
       git branch -m seo_title
 ```
+
+#### del branch
+
+```git
+      git branch -d branch_to_del
+```
+
+### reset
+
+#### soft
+
+```git
+      git reset --soft <tree-ish>
+```
+
+```git
+      git reset --hard <tree-ish>
+```
+
+### merge
