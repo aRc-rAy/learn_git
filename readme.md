@@ -158,4 +158,24 @@
       git stash drop stash@{0}
 ```
 
-## remote repo
+### remote repo
+
+```git
+      git remote add origin {link}
+```
+
+```git
+      git push -u origin branch-name
+```
+
+```git
+      git fetch origin
+```
+
+```git
+      git merge
+```
+
+```git
+      git pull
+```
