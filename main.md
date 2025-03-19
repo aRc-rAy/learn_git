@@ -61,3 +61,7 @@
 ```git
       git stash apply stash@{0}
 ```
+
+```git
+      git stash drop stash@{0}
+```
