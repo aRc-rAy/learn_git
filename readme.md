@@ -87,7 +87,7 @@
 ```
 
 ```git
-      git branch -M del_feature
+      git branch -D del_feature
 ```
 
 #### compare branches
