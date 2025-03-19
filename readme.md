@@ -33,7 +33,7 @@
 ```
 
 ```git
-      git log --online
+      git log --oneline
 ```
 
 ```git
